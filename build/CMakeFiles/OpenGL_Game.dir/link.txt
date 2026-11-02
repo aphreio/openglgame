@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/OpenGL_Game.dir/link.d CMakeFiles/OpenGL_Game.dir/src/main.cpp.o -o OpenGL_Game  third_party/glad/libglad.a third_party/glfw-3.5.1/src/libglfw3.a /usr/lib/librt.a -lm -ldl /usr/lib/libGLX.so /usr/lib/libOpenGL.so

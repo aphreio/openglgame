@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/aphreio/Projects/OpenGL Game/build/cmake_install.cmake",
+		"/home/aphreio/Projects/OpenGL Game/build/third_party/glfw-3.5.1/cmake_install.cmake",
+		"/home/aphreio/Projects/OpenGL Game/build/third_party/glfw-3.5.1/src/cmake_install.cmake",
+		"/home/aphreio/Projects/OpenGL Game/build/third_party/glfw-3.5.1/docs/cmake_install.cmake",
+		"/home/aphreio/Projects/OpenGL Game/build/third_party/glad/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

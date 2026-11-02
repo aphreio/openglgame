@@ -1,0 +1,3 @@
+/home/aphreio/Projects/OpenGL Game/CMakeFiles/OpenGL_Game.dir
+/home/aphreio/Projects/OpenGL Game/CMakeFiles/edit_cache.dir
+/home/aphreio/Projects/OpenGL Game/CMakeFiles/rebuild_cache.dir
