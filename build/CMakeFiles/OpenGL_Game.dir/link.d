@@ -3,6 +3,7 @@ OpenGL_Game: \
   /usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/crti.o \
   /usr/lib/gcc/x86_64-pc-linux-gnu/16/crtbeginS.o \
   CMakeFiles/OpenGL_Game.dir/src/main.cpp.o \
+  CMakeFiles/OpenGL_Game.dir/third_party/glad/src/gl.c.o \
   third_party/glad/libglad.a \
   third_party/glfw-3.5.1/src/libglfw3.a \
   /usr/lib/librt.a \
@@ -58,6 +59,8 @@ OpenGL_Game: \
 /usr/lib/gcc/x86_64-pc-linux-gnu/16/crtbeginS.o:
 
 CMakeFiles/OpenGL_Game.dir/src/main.cpp.o:
+
+CMakeFiles/OpenGL_Game.dir/third_party/glad/src/gl.c.o:
 
 third_party/glad/libglad.a:
 

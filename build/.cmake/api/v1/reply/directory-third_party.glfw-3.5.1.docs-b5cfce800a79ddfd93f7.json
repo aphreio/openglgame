@@ -1,0 +1,19 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 11
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "third_party/glfw-3.5.1/docs",
+		"source" : "third_party/glfw-3.5.1/docs"
+	}
+}

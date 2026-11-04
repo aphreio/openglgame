@@ -8,6 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/home/aphreio/Projects/OpenGL Game/third_party/glad/src/gl.c" "CMakeFiles/OpenGL_Game.dir/third_party/glad/src/gl.c.o" "gcc" "CMakeFiles/OpenGL_Game.dir/third_party/glad/src/gl.c.o.d"
   "/home/aphreio/Projects/OpenGL Game/src/main.cpp" "CMakeFiles/OpenGL_Game.dir/src/main.cpp.o" "gcc" "CMakeFiles/OpenGL_Game.dir/src/main.cpp.o.d"
   "" "OpenGL_Game" "gcc" "CMakeFiles/OpenGL_Game.dir/link.d"
   )

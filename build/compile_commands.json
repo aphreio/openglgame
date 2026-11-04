@@ -1,9 +1,15 @@
 [
 {
   "directory": "/home/aphreio/Projects/OpenGL Game/build",
-  "command": "/usr/bin/c++  -I\"/home/aphreio/Projects/OpenGL Game/include\" -I\"/home/aphreio/Projects/OpenGL Game/third_party/glad/include\" -I\"/home/aphreio/Projects/OpenGL Game/third_party/glfw-3.5.1/include\"  -o CMakeFiles/OpenGL_Game.dir/src/main.cpp.o -c \"/home/aphreio/Projects/OpenGL Game/src/main.cpp\"",
+  "command": "/usr/bin/c++  -I\"/home/aphreio/Projects/OpenGL Game/third_party/glad/include\" -I\"/home/aphreio/Projects/OpenGL Game/third_party/glfw-3.5.1/include\"  -o CMakeFiles/OpenGL_Game.dir/src/main.cpp.o -c \"/home/aphreio/Projects/OpenGL Game/src/main.cpp\"",
   "file": "/home/aphreio/Projects/OpenGL Game/src/main.cpp",
   "output": "CMakeFiles/OpenGL_Game.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/aphreio/Projects/OpenGL Game/build",
+  "command": "/usr/bin/cc  -I\"/home/aphreio/Projects/OpenGL Game/third_party/glad/include\" -I\"/home/aphreio/Projects/OpenGL Game/third_party/glfw-3.5.1/include\"  -o CMakeFiles/OpenGL_Game.dir/third_party/glad/src/gl.c.o -c \"/home/aphreio/Projects/OpenGL Game/third_party/glad/src/gl.c\"",
+  "file": "/home/aphreio/Projects/OpenGL Game/third_party/glad/src/gl.c",
+  "output": "CMakeFiles/OpenGL_Game.dir/third_party/glad/src/gl.c.o"
 },
 {
   "directory": "/home/aphreio/Projects/OpenGL Game/build/third_party/glfw-3.5.1/src",
